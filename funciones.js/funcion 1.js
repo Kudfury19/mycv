@@ -1,4 +1,4 @@
 function suma(a,b){
-    console.log (a+b)
+    console.log(a+b)
 }
-suma();
+suma(5,2);
